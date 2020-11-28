@@ -179,7 +179,7 @@ body {
   animation: overlay-grow 500ms forwards;
 }
 
-@keyframes dance {
+@keyframes dance {   /* pu2 */
   0%, 100% {
     transform: rotate(0)
   }
